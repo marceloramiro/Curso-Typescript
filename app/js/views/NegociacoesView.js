@@ -1,0 +1,5 @@
+class NegociacoesView {
+    template() {
+        return "";
+    }
+}
